@@ -1,0 +1,9 @@
+# Ignore log and tmp folders
+/log
+/tmp
+
+# Ignore app secrets
+/config/secrets.yml
+
+# Ignore rubocop audit file
+aud.txt
