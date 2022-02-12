@@ -14,7 +14,7 @@ gem 'rails', '~> 6.0'
 # Use postgreSQL as the database for Active Record
 gem 'pg', '~> 1.1', '>= 1.1.4'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # Provide CORS support for the application
 gem 'rack-cors', '~> 1.0', '>= 1.0.3'
 # Use active model serializers to serialize application data
